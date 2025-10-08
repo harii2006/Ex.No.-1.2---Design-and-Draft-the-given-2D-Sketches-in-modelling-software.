@@ -1,3 +1,4 @@
+<img width="933" height="684" alt="Screenshot 2025-10-08 105234" src="https://github.com/user-attachments/assets/749d774a-4a44-4ee5-995c-2bc064f0c211" />
 ![Uploading Screenshot 2025-10-08 105234.png…]()
 # Ex.No.-1.2-Design and Draft the given 2D Sketches in modelling software.
 
