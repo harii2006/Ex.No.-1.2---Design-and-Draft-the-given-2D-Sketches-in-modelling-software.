@@ -1,3 +1,4 @@
+![Uploading Screenshot 2025-10-08 105234.png…]()
 # Ex.No.-1.2-Design and Draft the given 2D Sketches in modelling software.
 
 ## AIM
